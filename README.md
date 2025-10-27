@@ -11,15 +11,15 @@ I enjoy solving real-world problems through clean, efficient, and maintainable c
 ### 💼 Experience
 **Associate Software Engineer – Accenture**  
 - Developing backend modules using Java, Spring Boot & MySQL.  
-- Working in an Agile environment with focus on clean code, testing, and CI/CD.
+- Working in an Agile environment with focus on clean code and version control using Git.
 
 ---
 
 ### 🧠 Technical Skills
 - **Languages:** Java, Python, SQL, JavaScript  
 - **Frameworks & Tools:** Spring Boot, Maven, Docker, Git, JUnit, Postman  
-- **Databases:** MySQL, PostgreSQL  
-- **Concepts:** RESTful APIs, Microservices, CI/CD, OOP, Data Structures 
+- **Databases:** MySQL, Oracle DB   
+- **Concepts:** RESTful APIs, Microservices, OOP, Data Structures 
 ---
 
 ### 🚀 Projects
