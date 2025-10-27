@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👩‍💻 Shifa Kouser
 
-<!--
-**shifakouser01/shifakouser01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Java • Spring Boot • SQL
 
-Here are some ideas to get you started:
+Hi! I'm **Shifa Kouser**, a Computer Science graduate (B.Tech, 2024) and **Associate Software Engineer at Accenture**.  
+I specialize in building scalable backend systems using **Java**, **Spring Boot**, and **RESTful APIs**.  
+I enjoy solving real-world problems through clean, efficient, and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Experience
+**Associate Software Engineer – Accenture (IHG Project)**  
+- Developing backend modules using Java, Spring Boot & MySQL.  
+- Working in an Agile environment with focus on clean code, testing, and CI/CD.
+
+---
+
+### 🧠 Technical Skills
+- **Languages:** Java, Python, SQL, JavaScript  
+- **Frameworks & Tools:** Spring Boot, Maven, Docker, Git, JUnit, Postman  
+- **Databases:** MySQL, PostgreSQL  
+- **Concepts:** RESTful APIs, Microservices, CI/CD, OOP, Data Structures 
+---
+
+### 🚀 Projects
+- ✅ **[To-Do App](https://github.com/shifakouser01/todo-springboot-app)** — Task manager REST API built with Spring Boot. 
+- ✋ **[Gesture Control Macros](https://github.com/shifakouser01/gesture-control-macros)** — Desktop automation using OpenCV + MediaPipe.   
+- 🩺 **[Mental Stress Detection](https://github.com/shifakouser01/mental-stress-detection-ml)** — ML-based academic project on student stress prediction.
+
+---
+
+### 📫 Connect
+- **Email:** shifakouser01@gmail.com  
+- **LinkedIn:** [linkedin.com/in/shifakouser01](https://linkedin.com/in/shifakouser01)  
+- **GitHub:** [github.com/shifakouser01](https://github.com/shifakouser01)
+
+---
+
+⭐ *“Code with purpose, build with clarity.”*
