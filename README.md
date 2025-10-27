@@ -9,7 +9,7 @@ I enjoy solving real-world problems through clean, efficient, and maintainable c
 ---
 
 ### 💼 Experience
-**Associate Software Engineer – Accenture (IHG Project)**  
+**Associate Software Engineer – Accenture**  
 - Developing backend modules using Java, Spring Boot & MySQL.  
 - Working in an Agile environment with focus on clean code, testing, and CI/CD.
 
