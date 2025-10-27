@@ -30,7 +30,7 @@ I enjoy solving real-world problems through clean, efficient, and maintainable c
 ---
 
 ### 📫 Connect
-- **Email:** shifakouser01@gmail.com  
+- **Email:** shifakouser05@gmail.com  
 - **LinkedIn:** [linkedin.com/in/shifakouser01](https://linkedin.com/in/shifakouser01)  
 - **GitHub:** [github.com/shifakouser01](https://github.com/shifakouser01)
 
